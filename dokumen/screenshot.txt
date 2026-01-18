@@ -1,0 +1,7 @@
+uas-sistem-basis-data-penjualan-toko-bangunan/
+│── sql/
+│── dokumen/
+│   ├── erd.png
+│   ├── hasil_query.png
+│   └── tampilan_program.png
+│── README.md
