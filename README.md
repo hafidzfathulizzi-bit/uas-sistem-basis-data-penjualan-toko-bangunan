@@ -2,7 +2,8 @@
 # Final Project Sistem Basis Data Toko Bangunan
 
 ## Deskripsi Proyek
-Proyek basis data dengan studi kasus Sistem Penjualan di Toko bangunan
+Repository ini berisi Final Project Ujian Akhir Semester mata kuliah Sistem Basis Data dengan studi kasus Sistem Transaksi Toko Bangunan. 
+Proyek ini mencakup perancangan basis data menggunakan ERD, normalisasi hingga 3NF, serta implementasi database MySQL yang meliputi DDL, DML, TCL, dan berbagai query SQL seperti JOIN, GROUP BY, HAVING, dan fungsi agregat.
 
 ## Tools yang Digunakan
 - MySQL
